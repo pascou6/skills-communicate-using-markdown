@@ -3,3 +3,5 @@
 ``` javascript
 var myVar = "Fakka brooooooooo";
 ```
+- [x] Lekker
+- [ ] Eten
